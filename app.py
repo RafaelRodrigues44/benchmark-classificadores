@@ -80,7 +80,7 @@ with st.sidebar:
 st.markdown(
     """
     <p class="nature-title-pt">
-    Otimização de Hiperplanos de Suporte e Limiares de Decisão no Diagnóstico do Câncer de Mama
+    Avaliação Comparativa de Modelos de Classificação e Estratégias de Ensemble para o Diagnóstico de Câncer de Mama
     </p>
     """,
     unsafe_allow_html=True
@@ -89,7 +89,7 @@ st.markdown(
 st.markdown(
     """
     <p class="nature-title-en">
-    Optimization of Support Vector Hyperplanes and Decision Thresholds in Breast Cancer Diagnostics
+    Comparative Evaluation of Classification Models and Ensemble Strategies for Breast Cancer Diagnosis
     </p>
     """,
     unsafe_allow_html=True
