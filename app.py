@@ -80,8 +80,7 @@ with st.sidebar:
 st.markdown(
     """
     <p class="nature-title-pt">
-    Avaliação Comparativa de Modelos de Classificação e Estratégias de Ensemble para o Diagnóstico de Câncer de Mama
-    </p>
+    Benchmark Comparativo de Modelos de Classificação e Métodos de Ensemble para o Diagnóstico de Câncer de Mama
     """,
     unsafe_allow_html=True
 )
@@ -89,7 +88,7 @@ st.markdown(
 st.markdown(
     """
     <p class="nature-title-en">
-    Comparative Evaluation of Classification Models and Ensemble Strategies for Breast Cancer Diagnosis
+    Comparative Benchmarking of Classification Models and Ensemble Methods for Breast Cancer Diagnosis
     </p>
     """,
     unsafe_allow_html=True
