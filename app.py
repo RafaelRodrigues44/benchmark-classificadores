@@ -206,7 +206,8 @@ elif secao == "10. Materiais Suplementares":
 st.markdown(
     """
     <div class="footer-container">
-        Manuscrito de Pesquisa Independente • Rafael Rodrigues • 2026
+        <p>Manuscrito de Pesquisa Independente • Rafael Rodrigues • 2026</p>
+        <p>rafael.rodrigues85@hotmail.com</p>
     </div>
     """,
     unsafe_allow_html=True

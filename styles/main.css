@@ -300,13 +300,19 @@ section.main {
     border-top: 1px solid #dddddd;
 
     display: flex;
+    flex-direction: column; 
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end; 
 
     font-size: 0.76rem;
     letter-spacing: .6px;
     font-weight: 500;
     color: #9a9a9a;
+}
+
+.footer-container p {
+    margin: 0;          
+    line-height: 1.2;  
 }
 
 .stDownloadButton button {
