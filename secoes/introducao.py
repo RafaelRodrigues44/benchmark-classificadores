@@ -18,16 +18,7 @@ def render():
     </p>
 
     <p class="nature-text">
-        Este estudo propõe uma investigação comparativa, sistemática e exaustiva entre diferentes paradigmas de 
-        classificação supervisionada. A fundamentação teórica e metodológica desta pesquisa alinha-se às diretrizes 
-        e taxonomia consolidadas pelo Serviço Federal de Processamento de Dados (Serpro) e pela Escola Nacional de 
-        Administração Pública (Enap) [4], estruturando-se através de três eixos fundamentais de indução computacional:
-    </p>
-    """, unsafe_allow_html=True)
-
-    st.markdown("""
-    <p class="nature-text">
-        Este estudo propõe uma investigação comparativa, sistemática e exaustiva entre diferentes paradigmas de 
+        Este estudo propõe uma investigação comparativa entre diferentes paradigmas de 
         classificação supervisionada. A fundamentação teórica e metodológica desta pesquisa alinha-se às diretrizes 
         e taxonomia consolidadas pelo Serviço Federal de Processamento de Dados (Serpro) e pela Escola Nacional de 
         Administração Pública (Enap) [4], estruturando-se através de três eixos fundamentais de indução computacional:
